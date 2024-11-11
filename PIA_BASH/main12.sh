@@ -1,6 +1,6 @@
 # Importar funciones
 source mainredes.sh
-source escan_port.sh
+source esc_port2.sh
 # Mostrar el menu 
 main() {
     echo ""
